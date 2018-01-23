@@ -1,0 +1,9 @@
+<level width="5000" height="640">
+  <entidades>
+    <enemy1 id="0" x="970" y="370" />
+    <player id="3" x="70" y="260" />
+    <enemy1 id="1" x="1040" y="520" />
+    <enemy2 id="2" x="1000" y="230" />
+    <enemy3 id="4" x="1010" y="300" />
+  </entidades>
+</level>

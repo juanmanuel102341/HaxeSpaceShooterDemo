@@ -1,0 +1,36 @@
+<level width="5000" height="640">
+  <entidades>
+    <player id="0" x="30" y="360" />
+    <enemy2 id="8" x="1240" y="170" />
+    <enemy3 id="10" x="1720" y="230" />
+    <enemy3 id="11" x="1720" y="460" />
+    <enemy1 id="15" x="2200" y="390" />
+    <enemy2 id="18" x="2220" y="590" />
+    <enemy1 id="20" x="3020" y="320" />
+    <enemy2 id="23" x="3200" y="460" />
+    <enemy2 id="24" x="3210" y="160" />
+    <enemy3 id="25" x="3280" y="340" />
+    <enemy3 id="27" x="3370" y="380" />
+    <enemy3 id="28" x="4050" y="310" />
+    <enemy3 id="29" x="4130" y="330" />
+    <enemy2 id="36" x="4100" y="590" />
+    <enemy2 id="38" x="4120" y="70" />
+    <enemy1 id="40" x="4130" y="170" />
+    <enemy1 id="51" x="1130" y="210" />
+    <enemy3 id="6" x="1010" y="530" />
+    <enemy3 id="43" x="1110" y="480" />
+    <enemy3 id="1" x="4140" y="510" />
+    <enemy2 id="2" x="4750" y="310" />
+    <enemy2 id="3" x="2080" y="130" />
+    <enemy1 id="4" x="1200" y="390" />
+    <enemy1 id="5" x="1850" y="350" />
+    <enemy2 id="7" x="2440" y="170" />
+    <enemy2 id="9" x="2760" y="320" />
+    <enemy2 id="12" x="2550" y="530" />
+    <enemy2 id="13" x="3580" y="100" />
+    <enemy2 id="14" x="3740" y="560" />
+    <enemy1 id="16" x="3770" y="280" />
+    <enemy1 id="17" x="4650" y="150" />
+    <enemy1 id="19" x="4390" y="350" />
+  </entidades>
+</level>
